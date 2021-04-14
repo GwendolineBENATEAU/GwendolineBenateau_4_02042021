@@ -7,6 +7,8 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+@import url (// db.onlinewebfonts.com/c/ee5d74f0b75c5754c723eb16d34e3d65?family=et-line);
+
 a,
 button {
     transition: all .3s ease-in-out;
