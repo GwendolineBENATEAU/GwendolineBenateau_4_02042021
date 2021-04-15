@@ -653,7 +653,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #242424!important;
 }
 
 .container {
@@ -679,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -724,22 +724,14 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-/*h1 {
-    color: #333333!important;
-}
-
-h4 {
-    color: #333333!important;
-}*/
-
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
 }
 
-/*.white {
+.white {
     color: #FFFFFF!important;
-}*/
+}
 
 .contrast {
     color: #242424!important;
