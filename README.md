@@ -17,7 +17,7 @@ Le site web de l'entreprise La Chouette Agence, agence de web design basée à L
 ### Objectif
 - Analyse de l’état actuel de SEO du site fourni et rédaction d'un [rapport d’analyse](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-analyse-P4.pdf)
 - Amélioration du SEO du site (accessibilité, référencement, performances)
-- Comparaison des résultats et rédaction [rapport d’optimisation](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-optimisation-P4.pdf)
+- Comparaison des résultats et rédaction d'un [rapport d’optimisation](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-optimisation-P4.pdf)
 
 ### Compétences évaluées
 - Assurer l'accessibilité d'un site web
