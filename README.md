@@ -2,12 +2,12 @@
 
 
 
-# LaChouetteAgence
-LaChouetteAgence est projet fictif à caractère pédagique de la formation de Dévéloppeur Web (OpenClassRooms) qui consiste à optimiser un site web existant
+# La Chouette Agence
+La Chouette Agence est projet fictif à caractère pédagique de la formation de Dévéloppeur Web (OpenClassRooms) qui consiste à optimiser un site web existant.
 
 ## Description du projet
 ### Scénario
-Le site web de l'entreprise La chouette agence, agence de web design basée à Lyon, n'apparaît seulement qu'en deuxième page des moteurs de recherche. L'agence souhaiterais améliorer son référencement, son accessibilité et la vitesse de chargement de son site... ([lire la suite](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/DW-Projet4-OpenClassrooms.pdf))
+Le site web de l'entreprise La Chouette Agence, agence de web design basée à Lyon, n'apparaît seulement qu'en deuxième page des moteurs de recherche. L'agence souhaiterais améliorer son référencement, son accessibilité et la vitesse de chargement de son site... ([lire la suite](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/DW-Projet4-OpenClassrooms.pdf))
 
 
 ### Site en son état actuel 
@@ -15,9 +15,9 @@ Le site web de l'entreprise La chouette agence, agence de web design basée à L
 - Visualisation du site actuel [GitHub Page](https://gwendolinebenateau.github.io/GwendolineBenateau_4_StartingWebsite/)
 
 ### Objectif
-- Analyse de l’état actuel de SEO du site fourni et rédaction d'un [rapport d’analyse]()
+- Analyse de l’état actuel de SEO du site fourni et rédaction d'un [rapport d’analyse](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-analyse-P4.pdf)
 - Amélioration du SEO du site (accessibilité, référencement, performances)
-- Comparaison des résultats et rédaction [rapport d’optimisation]()
+- Comparaison des résultats et rédaction [rapport d’optimisation](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-optimisation-P4.pdf)
 
 ### Compétences évaluées
 - Assurer l'accessibilité d'un site web
@@ -29,7 +29,7 @@ Le site web de l'entreprise La chouette agence, agence de web design basée à L
 ## Outils d'analyse
 - [WAVE](https://wave.webaim.org/) - Outil d'évaluation sur l'accessibilité de contenu web (WCAG)
 - [GTmetrix](https://gtmetrix.com/) - Outil de test et d'analyse de performances
-- [SiteChecker](https://sitechecker.pro/app/main/dashboard) - Outil d'audit SEO pour le référencement avec Google PageSpeed et Google SERP
+- [SiteChecker](https://sitechecker.pro/app/main/dashboard) - Outil d'audit SEO pour le référencement (avec Google PageSpeed et Google SERP)
 
 ## Présentation
 - Visualisation du site optimisé [GitHub Page](https://gwendolinebenateau.github.io/GwendolineBenateau_4_02042021_LaChouetteAgence/)
