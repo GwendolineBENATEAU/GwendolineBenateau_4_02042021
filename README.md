@@ -33,7 +33,7 @@ Le site web de l'entreprise La Chouette Agence, agence de web design basée à L
 
 ## Présentation
 - Visualisation du site optimisé [GitHub Page](https://gwendolinebenateau.github.io/GwendolineBenateau_4_02042021_LaChouetteAgence/)
-- Diaporama de présenation du projet [Diapo P4](https://www.canva.com/design/DAEb6iuLD78/dbWpUxs65NkDoX1eMEqRGg/watch?utm_content=DAEb6iuLD78&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- Diaporama de présentation du projet [Diapo P4](https://www.canva.com/design/DAEb6iuLD78/dbWpUxs65NkDoX1eMEqRGg/watch?utm_content=DAEb6iuLD78&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## Auteurs
 Gwendoline Bénteau
