@@ -15,9 +15,9 @@ Le site web de l'entreprise La Chouette Agence, agence de web design basée à L
 - Visualisation du site actuel [GitHub Page](https://gwendolinebenateau.github.io/GwendolineBenateau_4_StartingWebsite/)
 
 ### Objectif
-- Analyse de l’état actuel de SEO du site fourni et rédaction d'un [rapport d’analyse](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-analyse-P4.pdf)
+- Analyse de l’état actuel de SEO du site fourni et rédaction d'un rapport d'analyse
 - Amélioration du SEO du site (accessibilité, référencement, performances)
-- Comparaison des résultats et rédaction d'un [rapport d’optimisation](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-optimisation-P4.pdf)
+- Comparaison des résultats et rédaction d'un rapport d’optimisation
 
 ### Compétences évaluées
 - Assurer l'accessibilité d'un site web
@@ -33,6 +33,8 @@ Le site web de l'entreprise La Chouette Agence, agence de web design basée à L
 
 ## Présentation
 - Visualisation du site optimisé sur [GitHub Page](https://gwendolinebenateau.github.io/GwendolineBenateau_4_02042021_LaChouetteAgence/)
+- [Rapport d’analyse](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-analyse-P4.pdf) et
+- [Rapport d’optimisation](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-optimisation-P4.pdf)
 - Diaporama de présentation du projet [LaChouetteAgence](https://www.canva.com/design/DAEb6iuLD78/dbWpUxs65NkDoX1eMEqRGg/watch?utm_content=DAEb6iuLD78&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## Auteurs
