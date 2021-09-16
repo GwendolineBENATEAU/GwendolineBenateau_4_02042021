@@ -31,7 +31,7 @@ Le site web de l'entreprise La Chouette Agence, agence de web design basée à L
 - [GTmetrix](https://gtmetrix.com/) - Outil de test et d'analyse de performances
 - [SiteChecker](https://sitechecker.pro/app/main/dashboard) - Outil d'audit SEO pour le référencement (avec Google PageSpeed et Google SERP)
 
-## Présentation
+## Présentation du projet
 - Visualisation du site optimisé sur [GitHub Page](https://gwendolinebenateau.github.io/GwendolineBenateau_4_02042021_LaChouetteAgence/)
 - [Rapport d’analyse](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-analyse-P4.pdf) et
 - [Rapport d’optimisation](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-optimisation-P4.pdf)
