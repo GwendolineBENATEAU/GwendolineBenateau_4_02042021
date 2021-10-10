@@ -3,7 +3,7 @@
 
 
 # La Chouette Agence
-La Chouette Agence est projet fictif à caractère pédagogique de la formation de Développeur Web (OpenClassRooms) qui consiste à optimiser un site web existant.
+La Chouette Agence est projet individuel à caractère pédagogique du parcours formation de Développeur Web (OpenClassRooms) qui consiste à optimiser un site web existant.
 
 ## Description du projet
 ### Scénario
