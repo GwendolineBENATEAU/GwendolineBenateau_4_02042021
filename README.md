@@ -35,6 +35,8 @@ Le site web de l'entreprise La Chouette Agence, agence de web design basée à L
 - Visualisation du site optimisé sur [GitHub Page](https://gwendolinebenateau.github.io/GwendolineBenateau_4_02042021_LaChouetteAgence/)
 - [Rapport d’analyse](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-analyse-P4.pdf) et [Rapport d’optimisation](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-optimisation-P4.pdf)
 - Diaporama de présentation du projet [LaChouetteAgence](https://www.canva.com/design/DAEb6iuLD78/dbWpUxs65NkDoX1eMEqRGg/watch?utm_content=DAEb6iuLD78&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- Appréciation de l'évaluateur : 
+> *"Très bon support de présentation. Posture professionnelle, très bonne présentation, travail maitrisé, les réponses aux questions très pertinentes"* - Wilfried Mambou
 
 ## Auteurs
 Gwendoline Bénateau
