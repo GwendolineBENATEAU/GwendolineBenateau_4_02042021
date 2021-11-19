@@ -1,4 +1,4 @@
-![LaChouetteAgence](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Presentation-P4.jpg)
+![LaChouetteAgence](https://github.com/GwendolineBENATEAU/LaChouetteAgence/blob/master/docs/Presentation-P4.jpg)
 
 
 
@@ -7,12 +7,12 @@ La Chouette Agence est projet individuel à caractère pédagogique du parcours 
 
 ## Description du projet
 ### Scénario
-Le site web de l'entreprise La Chouette Agence, agence de web design basée à Lyon, n'apparaît seulement qu'en deuxième page des moteurs de recherche. L'agence souhaiterais améliorer son référencement, son accessibilité et la vitesse de chargement de son site... ([lire la suite](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/DW-Projet4-OpenClassrooms.pdf))
+Le site web de l'entreprise La Chouette Agence, agence de web design basée à Lyon, n'apparaît seulement qu'en deuxième page des moteurs de recherche. L'agence souhaiterais améliorer son référencement, son accessibilité et la vitesse de chargement de son site... ([lire la suite](https://github.com/GwendolineBENATEAU/LaChouetteAgence/blob/master/docs/DW-Projet4-OpenClassrooms.pdf))
 
 
 ### Site en son état actuel 
-- Repository du site actuel [GitHub](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_StartingWebsite)
-- Visualisation du site actuel [GitHub Page](https://gwendolinebenateau.github.io/GwendolineBenateau_4_StartingWebsite/)
+- Repository du site actuel [GitHub](https://github.com/GwendolineBENATEAU/LaChouetteAgence_StartingWebsite)
+- Visualisation du site actuel [GitHub Page](https://gwendolinebenateau.github.io/LaChouetteAgence_StartingWebsite/)
 
 ### Objectif
 - Analyse de l’état actuel de SEO du site fourni et rédaction d'un rapport d'analyse
@@ -32,8 +32,8 @@ Le site web de l'entreprise La Chouette Agence, agence de web design basée à L
 - [SiteChecker](https://sitechecker.pro/app/main/dashboard) - Outil d'audit SEO pour le référencement (avec Google PageSpeed et Google SERP)
 
 ## Présentation du projet
-- Visualisation du site optimisé sur [GitHub Page](https://gwendolinebenateau.github.io/GwendolineBenateau_4_02042021_LaChouetteAgence/)
-- [Rapport d’analyse](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-analyse-P4.pdf) et [Rapport d’optimisation](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Rapport-d-optimisation-P4.pdf)
+- Visualisation du site optimisé sur [GitHub Page](https://gwendolinebenateau.github.io/LaChouetteAgence/)
+- [Rapport d’analyse](https://github.com/GwendolineBENATEAU/LaChouetteAgence/blob/master/docs/Rapport-d-analyse-P4.pdf) et [Rapport d’optimisation](https://github.com/GwendolineBENATEAU/LaChouetteAgence/blob/master/docs/Rapport-d-optimisation-P4.pdf)
 - Diaporama de présentation du projet [LaChouetteAgence](https://www.canva.com/design/DAEb6iuLD78/dbWpUxs65NkDoX1eMEqRGg/watch?utm_content=DAEb6iuLD78&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 - Appréciation de l'évaluateur : 
 > *"Très bon support de présentation. Posture professionnelle, très bonne présentation, travail maitrisé, les réponses aux questions très pertinentes"* - Wilfried Mambou
